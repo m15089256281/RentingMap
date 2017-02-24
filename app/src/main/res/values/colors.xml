@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--wq-->
+    <color name="font_white">#fff</color>
+    <color name="font_black">#333</color>
+    <color name="font_gray_6">#666</color>
+    <color name="font_gray_9">#999</color>
+    <color name="font_my_item">#394a5a</color>
+
+    <color name="font_white_with_alpha">#ffffff</color>
+    <color name="font_black_with_alpha">#bd333333</color>
+    <color name="font_gray_6_with_alpha">#bd666666</color>
+    <color name="font_gray_9_with_alpha">#bd999999</color>
+
+    <color name="font_gray_d9">#d9d9d9</color>
+    <color name="font_red">#ff554e</color>
+    <color name="font_blue">#589DF6</color>
+    <color name="font_blue_darker">#3b7ccf</color>
+    <color name="font_yellow">#FEB823</color>
+    <color name="font_orange">#ff711b</color>
+    <color name="line_gray">#efefef</color>
+    <color name="bg_color">#ebebeb</color>
+    <color name="bg_white">#fff</color>
+    <color name="flow_layout_item">#00d4ff</color>
+    <color name="pink">#ff6d5b</color>
+    <color name="transparent">#00000000</color>
+    <color name="tint_orange">#FE914E</color>
+    <color name="button_orange">#ff711b</color>
+    <color name="button_orange_press">#fb6205</color>
+
+    <color name="banner_indicator_text_color">#dedede</color>
+
+    <!--error color-->
+    <color name="color_error">#ff554e</color>
+
+    <color name="btn_normal_blue_color">#60B3F4</color>
+    <color name="login_btn_pressed_color">#4d99d6</color>
+
+    <!--count_down-->
+
+    <color name="font_green">#96CD67</color>
+
+    <color name="filter_select_color">#E7E7E7</color>
+    <color name="search_et_bg">#eff3f6</color>
+    <color name="menu_default">#333333</color>
+    <color name="menu_pressed">#252525</color>
+    <color name="my_head_top">#a7a7a7</color>
+    <color name="city_tab_bg">#29000000</color>
+
+    <color name="image_alpha">#19000000</color>
+    <color name="filter_left_area_item_bg">#f5f5f5</color>
+    <color name="floating_top_desc_color">#fbf4e2</color>
+
+</resources>
